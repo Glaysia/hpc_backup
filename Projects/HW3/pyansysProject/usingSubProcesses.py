@@ -16,7 +16,7 @@ for bits in idx_bools:
     idx_material.append(entry)
 
 # velocities = [(9,15), (7,12), (7,12), (5,10), (26,45), (23,39), (23,39), (20,33)]
-velocities = [(9,15), (7,12), (7,12), (5,10), (22,50), (23,39), (23,39), (20,33)]
+velocities = [(9,50) for _ in range(8)]
 
 idx_with_velocity: List[Tuple[str, str, str, Tuple[str]]] = []
 for i, material in enumerate(idx_material):
@@ -37,38 +37,36 @@ def makeProcess(material:str, thick:str, magnet_n:str, velocity:str, idx:str)->N
         "--csv-dir", f"/home1/harry261/Documents/csv/{material}"
         ]
     ) 
-# print(idx_final)
-nnn = ('Brass', '10T', '1', ('22.00', '23.47', '24.95', '26.42', '27.89', '29.37', '30.84', '32.32', '33.79', '35.26', '36.74', '38.21', '39.68', '41.16', '42.63', '44.11', '45.58', '47.05', '48.53', '50.00'))
+print(idx_final)
+# nnn = ('Brass', '10T', '1', ('22.00', '23.47', '24.95', '26.42', '27.89', '29.37', '30.84', '32.32', '33.79', '35.26', '36.74', '38.21', '39.68', '41.16', '42.63', '44.11', '45.58', '47.05', '48.53', '50.00'))
 
-index:int = 0
-item = nnn
-for v in item[3]:
-    makeProcess(
-        material=item[0],
-        thick=item[1],
-        magnet_n=item[2],
-        velocity=v,
-        idx=f"{index}"
-        )
-    sleep(10)
-
-    index+=1
-pass
-# 결과 출력
 # index:int = 0
-# for item in idx_final:
-#     for v in item[3]:
-#         if index in (32, 33, 34, 35, 36, 37, 38, 39):
-#             makeProcess(
-#                 material=item[0],
-#                 thick=item[1],
-#                 magnet_n=item[2],
-#                 velocity=v,
-#                 idx=f"{index}"
-#                 )
-#             sleep(12)
+# item = nnn
+# for v in item[3]:
+#     makeProcess(
+#         material=item[0],
+#         thick=item[1],
+#         magnet_n=item[2],
+#         velocity=v,
+#         idx=f"{index}"
+#         )
+#     sleep(10)
 
-#         index+=1
+#     index+=1
+# pass
+# 결과 출력
+index:int = 0
+for item in idx_final:
+    for v in item[3]:
+        makeProcess(
+            material=item[0],
+            thick=item[1],
+            magnet_n=item[2],
+            velocity=v,
+            idx=f"{index}"
+            )
+        sleep(12)
+        index+=1
 
 
 
