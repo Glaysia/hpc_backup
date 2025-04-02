@@ -725,3 +725,175 @@ Project directory: /home1/harry261/Ansoft
  Can be due to CPU intensive processing or network problems. 
  If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:23 PM  Apr 02, 2025)
 [error] Project:p19Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:55:23 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 56637.
+
+[info] Project:p0Brass_3, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (05:55:45 PM  Apr 02, 2025)
+[warning] Project:p0Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:08:45, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:09:45 PM  Apr 02, 2025)
+[error] Project:p0Brass_3, Design:eddy (Transient), Simulation was aborted by user on server: Local Machine. (06:10:42 PM  Apr 02, 2025)
+[warning] Project:p0Brass_3, Design:eddy (Transient), Com Engine has responded to the application at 18:10:42, April 02, 2025. (06:10:42 PM  Apr 02, 2025)
+[error] The simulation for p[error] Project:p1Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:10 PM  Apr 02, 2025)
+[error] Project:p2Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:16 PM  Apr 02, 2025)
+[error] Project:p3Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:25 PM  Apr 02, 2025)
+[error] Project:p4Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:35 PM  Apr 02, 2025)
+[error] Project:p5Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:45 PM  Apr 02, 2025)
+[error] Project:p6Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:09:54 PM  Apr 02, 2025)
+[error] Project:p7Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:14 PM  Apr 02, 2025)
+[error] Project:p8Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:17 PM  Apr 02, 2025)
+[error] Project:p9Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:28 PM  Apr 02, 2025)
+[error] Project:p10Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:43 PM  Apr 02, 2025)
+[error] Project:p11Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:09:56 PM  Apr 02, 2025)
+[error] Project:p12Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ process and restart analysis. Retrying.....  (06:09:55 PM  Apr 02, 2025)
+[error] Project:p13Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:07 PM  Apr 02, 2025)
+[error] Project:p14Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kil[warning] Project:p16Brass_1, Design:eddy (Transient), Com Engine non-responsive since 18:[error] Project:p15Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ process and restart analysis. Retrying.....  (06:10:33 PM  Apr 02, 2025)
+[error] Project:p16Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ No Project??
+Starting Batch Run: 5:58:35 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 40159.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:02:06 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 47381.
+
+[info] Project:p0Brass_4, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (06:02:37 PM  Apr 02, 2025)
+[warning] Project:p0Brass_4, Design:eddy (Transient), Com Engine non-responsive since 18:09:37, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill[warning] Project:p1Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:[error] Project:p0Brass_4, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+e process and restart analysis. Retrying.....  (06:10:45 PM  Apr 02, 2025)
+[error] Project:p1Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ect:p3Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:[error] Project:p2Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ect:p4Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:[error] Project:p3Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ect:p5Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:[error] Project:p4Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:50 PM  Apr 02, 2025)
+ect:p6Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:[error] Project:p5Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:49 PM  Apr 02, 2025)
+ect:p7Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:[error] Project:p6Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+e process and restart analysis. Retrying.....  (06:10:46 PM  Apr 02, 2025)
+[error] Project:p7Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+e process and restart analysis. Retrying.....  (06:09:56 PM  Apr 02, 2025)
+[error] Project:p8Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license path
+1055@172.16.10.81
+1055@license-server
+No such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 57081.
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license paTemp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 58741.
+
+[info] Project:p12Brass_3, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (06:04:36 PM  Apr 02, 2025)
+[warning] Project:p12Brass_3, Design:eddy (Transient), Com Engine non-responsive since 18:09:36, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:36 PM  Apr 02, 2025)
+[error] Project:p12Brass_3, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 51023.
+
+[info] Project:p14Brass_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (06:04:59 PM  Apr 02, 2025)
+[warning] Project:p14Brass_2, Design:eddy (Transient), Com Engine non-responsive since 18:08:58, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:09:58 PM  Apr 02, 2025)
+[error] Project:p14Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+t:p16Brass_2, Design:eddy (Transient), Com Engine non-responsive since 18:09:18, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:19 PM  Apr 02, 2025)
+[error] Project:p16Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 58753.
+
+[info] Project:p17Brass_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (06:05:30 PM  Apr 02, 2025)
+[warning] Project:p17Brass_2, Design:eddy (Transient), Com Engine non-responsive since 18:09:29, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (06:10:29 PM  Apr 02, 2025)
+[error] Project:p17Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (06:10:48 PM  Apr 02, 2025)
+ch feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license path
+1055@172.16.10.81
+1055@license-server
+No such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+

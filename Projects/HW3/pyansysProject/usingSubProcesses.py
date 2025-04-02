@@ -33,7 +33,7 @@ def makeProcess(material:str, thick:str, magnet_n:str, velocity:str, idx:str)->N
         "--metal-thick", f"{thick =='20T'}",
         "--magnet-n", magnet_n,
         "--velocity", velocity,
-        "--project-name", f"p{idx}{material}_1",
+        "--project-name", f"pp{idx}{material}_1",
         "--csv-dir", f"/home1/harry261/Documents/csv/{material}"
         ]
     ) 
@@ -53,6 +53,7 @@ for v in item[3]:
     sleep(10)
 
     index+=1
+pass
 # 결과 출력
 # index:int = 0
 # for item in idx_final:
