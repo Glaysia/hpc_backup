@@ -1,0 +1,727 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:05:06 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 57035.
+
+Stopping Batch Run: 2:05:26 AM  Apr 02, 2025
+e: No Project??
+Starting Batch Run: 2:05:09 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 39263.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:05:16 AM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:05:20 AM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:58:18 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 55269.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:58:32 AM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:59:17 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 50623.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:00:23 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 45301.
+
+[info] Project:p0Copper_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:00:42 AM  Apr 02, 2025)
+[warning] Project:p0Copper_1, Design:eddy (Transient), Com Engine non-responsive since 03:02:42, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (03:03:42 AM  Apr 02, 2025)
+[error] Project:p0Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:04:06 AM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (03:04:03 AM  Apr 02, 2025)
+[error] Project:p1Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:04:06 AM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (03:03:08 AM  Apr 02, 2025)
+[error] Project:p2Copper_1, Design:eddy (Transient), Simulation was aborted by user on server: Local Machine. (03:04:06 AM  Apr 02, 2025)
+[warning] Project[info] Project:p0Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:13:23 AM  Apr 02, 2025)
+[warning] Project:p0Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:13:24 AM  Apr 02, 2025)
+Stopping Batch Run: 3:13:26 AM  Apr 02, 2025
+ct:p1Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:13:15 AM  Apr 02, 2025)[info] Project:p2Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:13:22 AM  Apr 02, 2025)
+[warning] Project:p2Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:13:22 AM  Apr 02, 2025)[info] Project:p3Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:13:35 AM  Apr 02, 2025)
+[warning] Project:p3Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:13:36 AM  Apr 02, 2025)[info] Project:p4Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:13:47 AM  Apr 02, 2025)
+[warning] Project:p4Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:13:48 AM  Apr 02, 2025)[info] Project:p5Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:13:54 AM  Apr 02, 2025)
+[warning] Project:p5Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:13:55 AM  Apr 02, 2025)[info] Project:p6Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:14:16 AM  Apr 02, 2025)
+[warning] Project:p6Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:14:17 AM  Apr 02, 2025)[info] Project:p7Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:14:22 AM  Apr 02, 2025)
+[warning] Project:p7Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:14:23 AM  Apr 02, 2025)
+Stopping Batch Run: 3:14:28 AM  Apr 02, 2025
+ent), Normal completion of simulation on server: Local Machine. (03:07:21 AM  Apr 02, 2025)
+[warning] Project:p8Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:07:22 AM  Apr 02, 2025)
+Stopping Batch Run: 3:07:28 AM  Apr 02, 2025
+ver: Local Machine. (03:07:18 AM  Apr 02, 2025)
+[warning] Project:p9Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:07:19 AM  Apr 02, 2025)
+[info] Project:p10Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:07:31 AM  Apr 02, 2025)
+[warning] Project:p10Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:07:32 AM  Apr 02, 202[info] Project:p11Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:07:44 AM  Apr 02, 2025)
+[warning] Project:p11Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:07:45 AM  Apr 02, 202[info] Project:p12Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:08:07 AM  Apr 02, 2025)
+[warning] Project:p12Copper_1, Design:eddy (Transient), The variable  'Fre[info] Project:p13Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:08:21 AM  Apr 02, 2025)
+[warning] Project:p13Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:08:22 AM  Apr 02, 202[inStopping Batch Run: 3:08:24 AM  Apr 02, 2025
+nt), Normal completion of simulation on server: Local Machine. (03:08:24 AM  Apr 02, 2025)
+[warning] Project:p14Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:08:24 AM  Apr 02, 202[info] Project:p15Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:08:46 AM  Apr 02, 2025)
+[warning] Project:p15Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:08:47 AM  Apr 02, 2025)
+Stopping Batch Run: 3:08:49 AM  Apr 02, 2025
+nt), Seed Refinement Estimates for body Metal might reach 187061 tets from 164 tets. Predicting a growth of 1140.62 %. (03:06:14 AM  [info] Project[info] Project:p16Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:25:01 AM  Apr 02, 2025)
+[warning] Project:p16Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:25:03 AM  Apr 02, 202[info] Project:p17Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:25:11 AM  Apr 02, 2025)
+[warning] Project:p17Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:25:12 AM  Apr 02, 2025)
+Stopping Batch Run: 3:25:14 AM  Apr 02, 2025
+nt), Normal completion of simulation on server: Local Machine. (03:25:11 AM  Apr 02, 2025)
+[warning] Project:p18Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:25:13 AM  Apr 02, 2025)
+Stopping Batch Run: 3:25:15 AM  Apr 02, 2025
+ent), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+License path:  1055@172.16.10.81:1055@license-server:
+FlexNet Licensing error:-4,132
+ (03:07:12 AM  Apr 02, 2025)
+[error] Project:p20Copper_1, Design:eddy (Transient), Simulation was terminated by license error. (03:07:12 AM  Apr 02, 2025)
+[error] Simulation for p20Copper_1 : eddy : MySetupAuto has failed with execution error. 
+[warning] Project:p20Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:07:13 AM  Apr 02, 2025)
+[warning] Project:p20Copper_1, Design:edTemp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 50709.
+
+[info] Project:p22Copper_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:07:35 AM  Apr 02, 2025)
+[info] Project:p22Copper_1, Design:eddy (Transient), Seed Refinement Estimates for body Metal might reach 187061 tets from 164 tets. Predicting a growth of 1140.62 %. (03:07:36 AM  Apr 02, 2025)
+[info] Project:p22Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:26:09 AM  Apr 02, 2025)
+[warning] Project:p22Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:26:10 AM  Apr 02, 2025)
+Stopping Batch Run: 3:26:14 AM  Apr 02, 2025
+ent), Verify conduction path: Conduction path validate success. (03:07:45 AM  Apr 02, 2025)
+[info] Project:p23Copper_1, Design:eddy (Transient), Seed Refinement Estimates for body Metal might reach 187061 tets from 164 tets. Pred[info] Project:p24Copper_1, Design:eddy (Transient), Verif[info] Project:p23Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:26:19 AM  Apr 02, 2025)
+[warning] Project:p23Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:26:20 AM  Apr 02, 2025)
+Stopping Batch Run: 3:26:24 AM  Apr 02, 2025
+ trace. (03:11:08 AM  Apr 02, 202[info] Project:p25Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:11:26 AM  Apr 02, 2025)
+[warning] Project:p25Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:11:27 AM  Apr 02, 202[info] Project:p26Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:11:42 AM  Apr 02, 2025)
+[warning] Project:p26Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:11:42 AM  Apr 02, 202[info] Project:p27Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:11:44 AM  Apr 02, 2025)
+[warning] Project:p27Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:11:45 AM  Apr 02, 202[info] Project:p28Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:12:10 AM  Apr 02, 2025)
+[warning] Project:p28Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:12:11 AM  Apr 02, 2025)
+Stopping Batch Run: 3:12:12 AM  Apr 02, 2025
+h:  1055@172.16.10.81:1055[info] Project:p30Copper_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:09:09 AM  Apr 02, 2025)
+[info] Project:p30Copper_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:12:32 AM  Apr 02, 2025)
+[warning] Project:p30Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:12:32 AM  Apr 02, 2025)
+Stopping Batch Run: 3:12:33 AM  Apr 02, 2025
+emp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 47253.
+
+[error] Project:p31Copper_1, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 49037.
+
+[error] Project:p32Brass_1, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+License path:  1055@172.16.10.81:1055@license-server:
+FlexNet Licensing error:-4,132
+ (03:09:36 AM  Apr 02, 2025)
+[error] Project:p32Brass_1, Design:eddy (Transient), Simulation was terminated by license error. (03:09:36 AM  Apr 02, 2025)
+[error] Simulation for p32Brass_1 : eddy : MySetupAuto has failed with execution error. 
+[warning] Project:p32Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:09:37 AM  Apr 02, 2025)
+[warning] Project:p32Brass_1, Design:eddy (Transient), Report p32Brass_1_magnet1_10T_Brass_26.00[error] Project:p33Brass_1, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+License path:  1055@172.16.10.81:1055@[info] Project:p34Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:09:58 AM  Apr 02, 2025)
+[info] Project:p34Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:20:07 AM  Apr 02, 2025)
+[warning] Project:p34Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:20:08 AM  Apr 02, 2025)[info] Project:p35Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:20:16 AM  Apr 02, 2025)
+[warning] Project:p35Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:20:17 AM  Apr 02, 2025)
+Stopping Batch Run: 3:20:20 AM  Apr 02, 2025
+:50 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 39879.
+
+[info] Project:p36Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate succeTemp directory: /tmp
+Project dir[info] Project:p36Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:20:19 AM  Apr 02, 2025)
+[warning] Project:p36Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:20:19 AM  Apr 02, 2025)
+Stopping Batch Run: 3:20:23 AM  Apr 02, 2025
+ath:  1055@172.16.10.81:1055@[error] Project:p38Brass_1, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+License path:  1055@172.16.10.81:1055@[info] Project:p39Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:10:55 AM  Apr 02, 2025)
+[info] Project:p39Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:21:02 AM  Apr 02, 2025)
+[warning] Project:p39Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:21:04 AM  Apr 02, 2025)
+Stopping Batch Run: 3:21:09 AM  Apr 02, 2025
+esign:eddy (Transient), Report p38Brass_1_magnet1_10T_Brass_42.29cTemp directory: /tmp
+Project directory: /home1/harry261/AnsoftStopping Batch Run: 3:10:50 AM  Apr 02, 2025
+[info] Project:p40Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:11:09 AM  Apr 02, 2025)
+[info] Project:p40Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:13:51 AM  Apr 02, 2025)
+[warning] Project:p40Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:13:52 AM  Apr 02, 2025)[info] Project:p41Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:14:05 AM  Apr 02, 2025)
+[warning] Project:p41Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:14:06 AM  Apr 02, 2025)[info] Project:p42Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:14:17 AM  Apr 02, 2025)
+[warning] Project:p42Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:14:17 AM  Apr 02, 2025)[info] Project:p43Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:14:27 AM  Apr 02, 2025)
+[warning] Project:p43Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p44Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:14:38 AM  Apr 02, 2025)
+[warning] Project:p44Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:14:39 AM  Apr 02, 2025)[info] Project:p45Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:14:55 AM  Apr 02, 2025)
+[warning] Project:p45Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:14:56 AM  Apr 02, 2025)
+Stopping Batch Run: 3:14:57 AM  Apr 02, 2025
+81:1055@license-server
+Licens[info] Project:p47Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:12:38 AM  Apr 02, 2025)
+[info] Project:p47Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:15:18 AM  Apr 02, 2025)
+[warning] Project:p47Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:15:18 AM  Apr 02, 2025)
+Stopping Batch Run: 3:15:21 AM  Apr 02, 2025
+ent), Seed Refinement Estimates for body Metal might reach 187061 tets from 164 tets. Predicting a growth of 1140.62 %. (03:12:52 AM  Apr 02, 2025)
+[info] Project:p48Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:31:06 AM  Apr 02, 2025)
+[warning] Project:p48Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:31:07 AM  Apr 02, 2025)
+Stopping Batch Run: 3:31:09 AM  Apr 02, 2025
+fo] GRPC server running on port: 45711.
+
+[info] Project:p49Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:12:58 AM  Apr 02, 2025)
+[info] Project:p49Brass_1, Design:eddy (Transient), Seed Refinement Estimat[error] Project:p50Brass_1, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electro[info] Project:p49Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:31:20 AM  Apr 02, 2025)
+[warning] Project:p49Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:31:20 AM  Apr 02, 2025)
+Stopping Batch Run: 3:31:22 AM  Apr 02, 2025
+ent), Verify conduction path: Conduction path validate succe[info] Project:p51Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:31:40 AM  Apr 02, 2025)
+[warning] Project:p51Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have[info] Project:p52Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:31:48 AM  Apr 02, 2025)
+[warning] Project:p52Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:31:49 AM  Apr 02, 2025)
+Stopping Batch Run: 3:31:54 AM  Apr 02, 2025
+raphical Mode: No Project??
+Starting Batch Run: 3:13:15 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 34263.
+
+[error] Project:p53Brass_1, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[info] Project:p54Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:13:57 AM  Apr 02, 2025)
+[info] Project:p54Brass_1, Design:eddy (Transient), Seed Refinement Estimat[info] Project:p55Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:14:12[info] Project:p54Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:32:06 AM  Apr 02, 2025)
+[warning] Project:p54Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p55Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:32:17 AM  Apr 02, 2025)
+[warning] Project:p55Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:32:18 AM  Apr 02, 2025)
+Stopping Batch Run: 3:32:21 AM  Apr 02, 2025
+edt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:13:50 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 47133.
+
+[info] Project:p56Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:14:23 AM  Apr 02, 2025)
+[info] Project:p56Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:17:41 AM  Apr 02, 2025)
+[warning] Project:p56Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p57Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:17:54 AM  Apr 02, 2025)
+[warning] Project:p57Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p58Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:18:08 AM  Apr 02, 2025)
+[warning] Project:p58Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p59Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:18:16 AM  Apr 02, 2025)
+[warning] Project:p59Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p60Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:18:27 AM  Apr 02, 2025)
+[warning] Project:p60Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p61Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:18:43 AM  Apr 02, 2025)
+[warning] Project:p61Brass_1, Design:eddy (Transient), The variable  'Freq'[info] Project:p62Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (03:18:54 AM  Apr 02, 2025)
+[warning] Project:p62Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:18:55 AM  Apr 02, 2025)
+Stopping Batch Run: 3:18:58 AM  Apr 02, 2025
+ath:  1055@172.16.10.81:1055@license-server:
+FlexNet Licensing error:-4,132
+ (03:15:47 AM  Apr 02, 2025)
+[error] Project:p63Brass_1, Design:eddy (Transient), Simulation was terminated by license error. (03:15:47 AM  Apr 02, 2025)
+[error] Simulation for p63Brass_1 : eddy : MySetupAuto has failed with execution error. 
+[warning] Project:p63Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:15:48 AM  Apr 02, 2025)
+[warning] Project:p63Brass_1, Design:eddy (Transient), Report p63Brass_1_magnet2_20T_Brass_33.00cm_per_sec has no data for export. (03:15:48 AM  Apr 02, 2025)
+Stopping Batch Run: 3:15:51 AM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:06 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 60949.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:08 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 36341.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:08 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 40373.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:10 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 40453.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:10 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 51573.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:15 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 40581.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:15 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 51193.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:15 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 39229.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:16 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 34287.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:16 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 42065.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:16 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 35557.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:18 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 48905.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:19 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 56133.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:20 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 60529.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:20 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 54857.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:22 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 47353.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:50:22 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 35713.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:13 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 34727.
+
+[error] Project:p19Copper_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p20Copper_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+License path:  1055@172.16.10.81:1055@license-server:
+FlexNet Licensing error:-4,132
+ (03:51:41 AM  Apr 02, 2025)
+[error] Project:p20Copper_2, [error] Project:p29Copper_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p31Copper_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+License path:  1055@172.16.10.81:105Stopping Batch Run: 3:51:47 AM  Apr 02, 2025
+132
+ (03:51:44 AM  Apr 02, 2025)
+[error] Project:p31Copper_2, Design:eddy (Transient), Simulation was terminated by license error. (03:51:44 AM  Apr 02, 2025)
+[error] Simulation for p31Copper_2 : eddy : MySetupAuto has failed with execution error. 
+ running on port: 37351.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:29 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 60697.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:31 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 35731.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:33 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 45733.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:35 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 52855.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:38 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 49055.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:40 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 39447.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:41 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 42625.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:45 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 33943.
+
+s/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:51:46 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 47735.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:55:41 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 42397.
+
+[error] Project:p19Copper_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p20Copper_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p21Copper_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p29Copper_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p31Copper_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p32Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p33Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p37Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p38Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p46Brass_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p50Brass_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p51Brass_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p52Brass_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[info] Project:p53Brass_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (03:56:30 AM  Apr 02, 2025)
+[info] Project:p53Brass_2, Design:eddy (Transient), Seed Refinement Estimat[error] Project:p54Brass_2, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electro[warning] Project:p53Brass_2, Design:eddy (Transient), Com Engine non-responsive since 04:00:29, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (04:01:29 AM  Apr 02, 2025)
+[error] Project:p53Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (04:02:05 AM  Apr 02, 2025)
+nsing error:-4,132
+ (03:56:44 AM  Apr 02, 2025)
+[error] Project:p55Brass_2, Design:eddy (Transient), Simulation was terminated by license error. (03:56:44 AM  Apr 02, 2025)
+[error] Simulation for p55Brass_2 : eddy : MySetupAuto has failed with execution error. 
+[warning] Project:p55Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (03:56:45 AM  Apr 02, 2025)
+[warning] Project:p55Brass_2, Design:eddy (Transient), Report p55Brass_2_magnet1_20T_Brass_39.00cm_per_sec has no data for export. (03:56:45 AM  Apr 02, 2025)
+Stopping Batch Run: 3:56:49 AM  Apr 02, 2025
+2, 2025)
+[warning] Project:p63Brass_2, Design:eddy (Transient), Report p63Brass_2_magnet2_20T_Brass_33.00cm_per_sec has no data for export. (03:56:44 AM  Apr 02, 2025)
+Stopping Batch Run: 3:56:47 AM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:00:44 AM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 34037.
+
+[error] Project:p19Copper_5, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p20Copper_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p21Copper_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p29Copper_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p31Copper_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licen[error] Project:p32Brass_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p33Brass_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p37Brass_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p38Brass_4, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p46Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p50Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p53Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licens[error] Project:p63Brass_3, Design:eddy (Transient), No FlexNet Publisher (FNP) license found for feature Ansys Electronics Solve Level 2.
+            FNP license path: 1055@172.16.10.81:1055@license-server
+Licensed number of users already reached.
+Feature:       elec_solve_level2
+License path:  1055@172.16.10.81:1055@license-server:
+FlexNet Licensing error:-4,132
+ (04:01:29 AM  Apr 02, 2025)
+[error] Project:p63Brass_3, Design:eddy (Transient), Simulation was terminated by license error. (04:01:29 AM  Apr 02, 2025)
+[erroStopping Batch Run: 4:01:30 AM  Apr 02, 2025
+Auto has failed with execution error. 
+[warning] Project:p63Brass_3, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded fromStopping Batch Run: 4:01:32 AM  Apr 02, 2025
+2, 2025)
+[warning] Project:p63Brass_3, Design:eddy (Transient), Report p63Brass_3_magnet2_20T_Brass_33.00cm_per_sec has no data for export. (04:01:30 AM  Apr 02, 2025)
+Stopping Batch Run: 4:01:33 AM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:53:35 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 57881.
+
+[info] Project:p32Brass_5, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (04:54:00 PM  Apr 02, 2025)
+[info] Project:p32Brass_5, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:03:30 PM  Apr 02, 2025)
+[warning] Project:p32Brass_5, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:03:31 PM  Apr 02, 2025)[info] Project:p33Brass_5, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:03:36 PM  Apr 02, 2025)
+[warning] Project:p33Brass_5, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:03:37 PM  Apr 02, 2025)[info] Project:p34Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:03:55 PM  Apr 02, 2025)
+[warning] Project:p34Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:03:57 PM  Apr 02, 2025)[info] Project:p35Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:04:12 PM  Apr 02, 2025)
+[warning] Project:p35Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:04:13 PM  Apr 02, 2025)[Stopping Batch Run: 5:04:19 PM  Apr 02, 2025
+ent), Normal completion of simulation on server: Local Machine. (05:04:17 PM  Apr 02, 2025)
+[warning] Project:p36Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:04:19 PM  Apr 02, 2025)[info] Project:p37Brass_5, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:04:24 PM  Apr 02, 2025)
+[warning] Project:p37Brass_5, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:04:25 PM  Apr 02, 2025)[info] Project:p38Brass_5, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:04:55 PM  Apr 02, 2025)
+[warning] Project:p38Brass_5, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:04:56 PM  Apr 02, 2025)
+Stopping Batch Run: 5:05:00 PM  Apr 02, 2025
+ent), Normal completion of simulation on server: Local Machine. (05:04:55 PM  Apr 02, 2025)
+[warning] Project:p39Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:04:56 PM  Apr 02, 2025)
+Stopping Batch Run: 5:04:57 PM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:32:47 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 45323.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:32:57 PM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:34:37 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 38997.
+
+[info] Project:p0Brass_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (05:35:00 PM  Apr 02, 2025)
+[warning] Project:p0Brass_2, Design:eddy (Transient), Com Engine non-responsive since 17:44:00, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:00 PM  Apr 02, 2025)
+[error] Project:p0Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:09 PM  Apr 02, 2025)
+[error] Project:p1Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:20 PM  Apr 02, 2025)
+[error] Project:p2Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:29 PM  Apr 02, 2025)
+[error] Project:p3Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:39 PM  Apr 02, 2025)
+[error] Project:p4Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:44:50 PM  Apr 02, 2025)
+[error] Project:p5Brass_1, Design:eddy (Transient), Simulation was aborted by user on server: Local Machine. (05:45:47 PM  Apr 02, 2025)
+[warning] Project:p5Brass_1, Design:eddy (Transient), Com Engine has responded to the application at 17:45:47, April 02, 2025. (05:45:47 PM  Apr 02, 2025)
+[error] The simulation for p[error] Project:p6Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:08 PM  Apr 02, 2025)
+[error] Project:p7Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:20 PM  Apr 02, 2025)
+[error] Project:p8Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:30 PM  Apr 02, 2025)
+[error] Project:p9Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:39 PM  Apr 02, 2025)
+[error] Project:p10Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:49 PM  Apr 02, 2025)
+[error] Project:p11Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:01 PM  Apr 02, 2025)
+[error] Project:p12Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:09 PM  Apr 02, 2025)
+[error] Project:p13Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
+ FNP license path
+1055@172.16.10.81
+1055@license-server
+No such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license path
+1055@172.16.10.81
+1055@license-server
+No such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 49581.
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license paTemp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 46379.
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license path
+1055@172.16.10.81
+1055@license-server
+No such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license path
+1055@172.16.10.81
+1055@license-server
+No such feature exists.
+Feature
+simplorer_desktop
+License path
+1055@172.16.10.81
+1055@license-server
+FlexNet Licensing error
+-5,147
+
+
+Temp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 54055.
+
+[error] No FlexNet Publisher (FNP) license found for feature simplorer_desktop.
+            FNP license paTemp directory: /tmp
+Project directory: /home1/harry261/Ansoft
+[info] GRPC server running on port: 54281.
+
+[info] Project:p19Brass_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (05:38:23 PM  Apr 02, 2025)
+[warning] Project:p19Brass_1, Design:eddy (Transient), Com Engine non-responsive since 17:44:23, April 02, 2025. 
+ Can be due to CPU intensive processing or network problems. 
+ If persisting for long, manually kill the com engine process and restart analysis. Retrying.....  (05:45:23 PM  Apr 02, 2025)
+[error] Project:p19Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:45:53 PM  Apr 02, 2025)
