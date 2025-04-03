@@ -50,7 +50,7 @@ for v in item[3]:
         #     velocity=v,
         #     idx=f"{index}"
     #     )
-    sleep(2)
+    sleep(9)
 
     index+=1
 

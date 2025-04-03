@@ -111,7 +111,6 @@ class HW3():
         self.magnet:Object3d  = magnet
         self.band:Object3d  = band
 
-
     def set_setup(self,v:float):
         self.velocity = v
         from ansys.aedt.core.modules.solve_setup import Setup
