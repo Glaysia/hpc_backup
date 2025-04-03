@@ -7,7 +7,7 @@ csv_dir = "/home1/harry261/Documents/csv"
 
 idx_bools: List[List[bool]] = [list(
     map(lambda x: x == '1', format(i, '03b'))) for i in range(8)]  # type: ignore
-idx_material: List[List] = []
+idx_material: List[list[str]] = []
 for bits in idx_bools:
     entry = [
         "Brass" if bits[0] else "Copper",
@@ -24,7 +24,7 @@ for i, material in enumerate(idx_material):
     velocity_values = tuple(
         map(lambda x: f"{x:.2f}", np.linspace(*velocities[i], 8)))
     new_entry = tuple(material + [velocity_values])
-    idx_with_velocity.append(new_entry)
+    idx_with_velocity.append(new_entry)  # type: ignore
 
 idx_final: List[Tuple[str, str, str, Tuple[str]]] = idx_with_velocity
 
