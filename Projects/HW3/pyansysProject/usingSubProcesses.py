@@ -11,8 +11,9 @@ env['ANSYSLMD_LICENSE_FILE'] = '1055@172.16.10.81'
 
 csv_dir = "/home1/harry261/Documents/csv"
 
-idx_bools: List[List[bool]] = [list(map(lambda x: x == '1', format(i, '03b'))) for i in range(8)]  # type: ignore
-idx_material: List[List] = []
+idx_bools: List[List[bool]] = [list(
+    map(lambda x: x == '1', format(i, '03b'))) for i in range(8)]  # type: ignore
+idx_material: List[list[str]] = []
 for bits in idx_bools:
     entry = [
         "Brass" if bits[0] else "Copper",
@@ -22,17 +23,25 @@ for bits in idx_bools:
     idx_material.append(entry)
 
 # velocities = [(9,15), (7,12), (7,12), (5,10), (26,45), (23,39), (23,39), (20,33)]
-velocities = [(9,50) for _ in range(8)]
+velocities = [(9, 50) for _ in range(8)]
 
 idx_with_velocity: List[Tuple[str, str, str, Tuple[str]]] = []
 for i, material in enumerate(idx_material):
-    velocity_values = tuple(map(lambda x: f"{x:.2f}", np.linspace(*velocities[i], 8)))
+    velocity_values = tuple(
+        map(lambda x: f"{x:.2f}", np.linspace(*velocities[i], 8)))
     new_entry = tuple(material + [velocity_values])
-    idx_with_velocity.append(new_entry)
+    idx_with_velocity.append(new_entry)  # type: ignore
 
 idx_final: List[Tuple[str, str, str, Tuple[str]]] = idx_with_velocity
 
-def makeProcess(material:str, thick:str, magnet_n:str, velocity:str, idx:str)->None:
+
+def makeProcess(
+        material: str,
+        thick: str,
+        magnet_n: str,
+        velocity: str,
+        idx: str
+) -> None:
     subprocess.Popen([
         "python", "/root/projects/hpc_backup/Projects/HW3/pyansysProject/hw3.py", 
         "--metal-material", material, 
@@ -61,7 +70,7 @@ print(idx_final)
 #     index+=1
 # pass
 # 결과 출력
-index:int = 0
+index: int = 0
 for item in idx_final:
     for v in item[3]:
         makeProcess(
@@ -70,16 +79,15 @@ for item in idx_final:
             magnet_n=item[2],
             velocity=v,
             idx=f"{index}"
-            )
+        )
         sleep(12)
-        index+=1
-
+        index += 1
 
 
 # 예: 두 개의 스크립트에 서로 다른 인수를 전달하는 경우
 # subprocess.Popen([
-#     "python", "hw3.py", 
-#     "--metal-material", "Copper", 
+#     "python", "hw3.py",
+#     "--metal-material", "Copper",
 #     "--metal-thick", f"{False}",
 #     "--magnet-n", "1",
 #     "--velocity", "7",
@@ -89,8 +97,8 @@ for item in idx_final:
 # )
 
 # subprocess.Popen([
-#     "python", "test.py", 
-#     "--metal-material", "Copper", 
+#     "python", "test.py",
+#     "--metal-material", "Copper",
 #     "--metal-thick", f"{True}",
 #     "--magnet-n", "1",
 #     "--velocity", "8",
