@@ -897,3 +897,229 @@ FlexNet Licensing error
 -5,147
 
 
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:03:50 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 34677.
+
+[info] Project:pp0Copper_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:04:11 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:04:00 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 48873.
+
+[info] Project:pp1Copper_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:04:16 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:04:12 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 42181.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:06:55 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 37183.
+
+[info] Project:pp0Copper_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:07:13 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:07:07 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 40755.
+
+[info] Project:pp1Copper_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:07:32 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:07:19 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 51699.
+
+[error] Project:pp2Copper_1, Design:eddy (Transient), Not connected to a server for Licensing Client Proxy actions.
+ (12:07:41 PM  Apr 02, 2025)
+[error] Project:pp2Copper_1, Design:eddy (Transient), Simulation was terminated by license error. (12:07:41 PM  Apr 02, 2025)
+[error] Simulation for pp2Copper_1 : eddy : MySetupAuto has failed with execution error. 
+[warning] Project:pp2Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (12:07:42 PM  Apr 02, 2025)
+[warning] Project:pp2Copper_1, Design:eddy (Transient), Report pp2Copper_1_magnet1_10T_Copper_20.71cm_per_sec has no data for export. (12:07:42 PM  Apr 02, 2025)
+Stopping Batch Run: 12:07:43 PM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:12:38 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:14:23 PM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:19:57 PM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:23:43 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 53219.
+
+[info] Project:pp0Copper_3, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:24:03 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:23:55 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 44329.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:58:30 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33889.
+
+Stopping Batch Run: 11:00:48 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:34:35 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33889.
+
+Stopping Batch Run: 11:35:13 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:39:19 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33889.
+
+Stopping Batch Run: 11:39:48 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:47:41 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+Stopping Batch Run: 11:48:08 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:48:12 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+Stopping Batch Run: 11:48:33 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:48:40 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+Stopping Batch Run: 11:51:03 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:51:08 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:52:48 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 58883.
+
+Stopping Batch Run: 11:53:53 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:54:48 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 22998. 
+-- Message Window --
+Stopping Batch Run: 11:57:25 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:57:38 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:59:42 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:01:44 PM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 58917. 
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "/root/miniconda3/envs/pyansys/lib/python3.12/asyncio/base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "/root/miniconda3/envs/pyansys/lib/python3.12/asyncio/base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "/root/miniconda3/envs/pyansys/lib/python3.12/asyncio/events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_720/2559951737.py", line 1, in <module>
+        [error]     M3D = DT_server.load_project("/root/projects/hpc_backup/Projects/HW3/pyansysProject/CM_DM_ind_2.aedt")
+        [error] 'nonetype' object has no attribute 'getname' on active_design
+        [error] Last Electronics Desktop Message - [error] 'nonetype' object has no attribute 'getname' on active_design  
+        [error] Method arguments: 
+        [error]     project_object = Instance of an Aedt object:15 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 12:02:45 PM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:02:49 PM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft

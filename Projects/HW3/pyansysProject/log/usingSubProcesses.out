@@ -1,0 +1,75 @@
+nohup: ignoring input
+PyAEDT INFO: Python version 3.12.9 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 18:56:27) [GCC 11.2.0].
+PyAEDT INFO: PyAEDT version 0.15.0.
+PyAEDT INFO: Initializing new Desktop session.
+PyAEDT INFO: Log on console is enabled.
+PyAEDT INFO: Log on file /tmp/pyaedt_root_9e1acc3c-1ce3-413e-b096-51c430a357c9.log is enabled.
+PyAEDT INFO: Log on AEDT is enabled.
+PyAEDT INFO: Debug logger is disabled. PyAEDT methods will not be logged.
+PyAEDT INFO: Launching PyAEDT with gRPC plugin.
+PyAEDT INFO: New AEDT session is starting on gRPC port 53219.
+PyAEDT WARNING: Electronics Desktop license not found on the default license server.
+PyAEDT INFO: Electronics Desktop started on gRPC port: 53219 after 8.867488861083984 seconds.
+PyAEDT INFO: AEDT installation Path /opt/ohpc/pub/Electronics/v242/Linux64/
+PyAEDT INFO: Ansoft.ElectronicsDesktop.2024.2 version started with process ID 12494.
+PyAEDT INFO: Python version 3.12.9 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 18:56:27) [GCC 11.2.0].
+PyAEDT INFO: PyAEDT version 0.15.0.
+PyAEDT INFO: Returning found Desktop session with PID 12494!
+PyAEDT INFO: Project Project9 has been created.
+PyAEDT INFO: No design is present. Inserting a new design.
+PyAEDT INFO: Python version 3.12.9 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 18:56:27) [GCC 11.2.0].
+PyAEDT INFO: PyAEDT version 0.15.0.
+PyAEDT INFO: Initializing new Desktop session.
+PyAEDT INFO: Log on console is enabled.
+PyAEDT INFO: Log on file /tmp/pyaedt_root_e9f358ac-0257-4435-927d-e3ea9246f358.log is enabled.
+PyAEDT INFO: Log on AEDT is enabled.
+PyAEDT INFO: Debug logger is disabled. PyAEDT methods will not be logged.
+PyAEDT INFO: Launching PyAEDT with gRPC plugin.
+PyAEDT INFO: New AEDT session is starting on gRPC port 44329.
+PyAEDT WARNING: Electronics Desktop license not found on the default license server.
+PyAEDT INFO: Added design 'Maxwell 3D_Q0O' of type Maxwell 3D.
+PyAEDT INFO: Aedt Objects correctly read
+프로젝트명 변경: pp0Copper_2
+프로젝트명 변경: pp0Copper_3
+PyAEDT INFO: Project pp0Copper_3 Saved correctly
+PyAEDT INFO: Materials class has been initialized! Elapsed time: 0m 0sec
+PyAEDT INFO: Modeler class has been initialized! Elapsed time: 0m 1sec
+PyAEDT WARNING: No objects to delete
+PyAEDT WARNING: No objects to delete
+PyAEDT WARNING: No objects to delete
+PyAEDT INFO: Mesh class has been initialized! Elapsed time: 0m 0sec
+PyAEDT INFO: Mesh class has been initialized! Elapsed time: 0m 0sec
+PyAEDT INFO: Boundary Band Motionsetup has been created.
+PyAEDT INFO: Project pp0Copper_3 Saved correctly
+PyAEDT INFO: Key Desktop/ActiveDSOConfigurations/Maxwell 3D correctly changed.
+PyAEDT INFO: Solving design setup MySetupAuto
+PyAEDT INFO: Electronics Desktop started on gRPC port: 44329 after 8.77803349494934 seconds.
+PyAEDT INFO: AEDT installation Path /opt/ohpc/pub/Electronics/v242/Linux64/
+PyAEDT INFO: Ansoft.ElectronicsDesktop.2024.2 version started with process ID 13259.
+PyAEDT INFO: Python version 3.12.9 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 18:56:27) [GCC 11.2.0].
+PyAEDT INFO: PyAEDT version 0.15.0.
+PyAEDT INFO: Returning found Desktop session with PID 13259!
+PyAEDT INFO: Project Project9 has been created.
+PyAEDT INFO: No design is present. Inserting a new design.
+[('Copper', '10T', '1', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00')), ('Copper', '10T', '2', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00')), ('Copper', '20T', '1', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00')), ('Copper', '20T', '2', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00')), ('Brass', '10T', '1', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00')), ('Brass', '10T', '2', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00')), ('Brass', '20T', '1', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00')), ('Brass', '20T', '2', ('9.00', '14.86', '20.71', '26.57', '32.43', '38.29', '44.14', '50.00'))]
+Traceback (most recent call last):
+  File "/root/projects/hpc_backup/Projects/HW3/pyansysProject/usingSubProcesses.py", line 74, in <module>
+    sleep(12)
+KeyboardInterrupt
+PyAEDT ERROR: **************************************************************
+PyAEDT ERROR:   File "/root/projects/hpc_backup/Projects/HW3/pyansysProject/hw3.py", line 193, in <module>
+PyAEDT ERROR:     hw3:HW3 = HW3(proj_name)
+PyAEDT ERROR:   File "/root/projects/hpc_backup/Projects/HW3/pyansysProject/hw3.py", line 23, in __init__
+PyAEDT ERROR:     = Maxwell3d(solution_type=sol_type, student_version=False)
+PyAEDT ERROR:  on __init__
+PyAEDT ERROR: Method arguments: 
+PyAEDT ERROR:     solution_type = Transient 
+PyAEDT ERROR: **************************************************************
+Traceback (most recent call last):
+  File "/root/projects/hpc_backup/Projects/HW3/pyansysProject/hw3.py", line 193, in <module>
+    hw3:HW3 = HW3(proj_name)
+              ^^^^^^^^^^^^^^
+  File "/root/projects/hpc_backup/Projects/HW3/pyansysProject/hw3.py", line 23, in __init__
+    = Maxwell3d(solution_type=sol_type, student_version=False)
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: __init__() should return None, not 'bool'

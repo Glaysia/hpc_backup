@@ -2,6 +2,12 @@ import subprocess
 import numpy as np
 from typing import List, Tuple
 from time import sleep
+import os
+
+# 부모 환경 복사
+env = os.environ.copy()
+env['ANSYSLMD_LICENSE_FILE'] = '1055@172.16.10.81'
+
 
 csv_dir = "/home1/harry261/Documents/csv"
 
@@ -28,13 +34,13 @@ idx_final: List[Tuple[str, str, str, Tuple[str]]] = idx_with_velocity
 
 def makeProcess(material:str, thick:str, magnet_n:str, velocity:str, idx:str)->None:
     subprocess.Popen([
-        "python", "/home1/harry261/Documents/Projects/HW3/pyansysProject/hw3.py", 
+        "python", "/root/projects/hpc_backup/Projects/HW3/pyansysProject/hw3.py", 
         "--metal-material", material, 
         "--metal-thick", f"{thick =='20T'}",
         "--magnet-n", magnet_n,
         "--velocity", velocity,
         "--project-name", f"pp{idx}{material}_1",
-        "--csv-dir", f"/home1/harry261/Documents/csv/{material}"
+        "--csv-dir", "/root/projects/hpc_backup/Projects/HW3/pyansysProject/csv"
         ]
     ) 
 print(idx_final)
