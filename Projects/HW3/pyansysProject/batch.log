@@ -901,148 +901,225 @@ FlexNet Licensing error
 Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
 Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
 Non Graphical Mode: No Project??
-Starting Batch Run: 9:51:28 PM  Apr 02, 2025
+Starting Batch Run: 12:03:50 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 34677.
+
+[info] Project:pp0Copper_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:04:11 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:04:00 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 48873.
+
+[info] Project:pp1Copper_1, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:04:16 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:04:12 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 42181.
+
  
 Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
 Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
 Non Graphical Mode: No Project??
-Starting Batch Run: 9:58:33 PM  Apr 02, 2025
+Starting Batch Run: 12:06:55 PM  Apr 02, 2025
 Temp directory: /tmp
-Project directory: /home1/harry261/Ansoft
-[info] GRPC server running on port: 32957.
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 37183.
 
-[info] Project:pp32Brass_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (09:58:55 PM  Apr 02, 2025)
-[error] Project:pp32Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3896621.pjt/out1.pjt/out1.pnt to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp32Brass_2/pp32Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh42/current.pnt. Error: No such file or directory. (10:05:17 P[error] Project:pp33Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3897747.pjt/out1.pjt/out1.lin to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp33Brass_2/pp33Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh42/current.lin. Error: No such file or directory. (10:05:18 P[error] Project:pp34Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3899342.pjt/out0.pjt//out0.elo to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp34Brass_2/pp34Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field41/fields.elo. Error: No such file or directory. (10:05:19 PM  Apr 02, 2025)
-[error] Project:pp34Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3899342.pjt/out1.pjt/out1.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp34Brass_2/pp34Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh42/current.fac. Error: No such file or directory. (10:05:19 PM  Apr 02, 2025)
-[error] Project:pp34Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:05:19 PM  Apr 02, 2025)
-[error] Project:pp34Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3899342.pjt/restart_out1.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp34Brass_2/pp34Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:05:19 PM  Apr 02, 2025)
-[error] Project:pp34Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3899342.pjt/out1.pjt/[error] Project:pp38Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3904782.pjt/out0.pjt/out0.lin to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp38Brass_2/pp38Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh40/current.lin. Error: No such file or directory. (10:05:19 P[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out0.pjt/out0.pnt to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh40/current.pnt. Error: No such file or directory. (10:05:19 PM[error] Project:pp40Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3908003.pjt/out3.pjt/out3.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp40Brass_2/pp40Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh46/current.fac. Error: No such file or directory. (10:05:20 PM[error] Project:pp41Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3909500.pjt/out3.pjt/out3.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp41Brass_2/pp41Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh46/current.fac. Error: No such file or directory. (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3909500.pjt/restart_out3.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp41Brass_2/pp41Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3909500.pjt/out3.pjt//out3.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp41Brass_2/pp41Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field47/fields.hdr. Error: No such file or directory. (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3909500.pjt/out4.pjt/out4.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp41Brass_2/pp41Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh48/current.fac. Error: No such file or directory. (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3909500.pjt/restart_out4.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp41Brass_2/pp41Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3909500.pjt/out4.pjt//out4.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp41Brass_2/pp41Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field49/fields.hdr. Error: No such file or directory. (10:05:20 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3909500.pjt/out5.pjt/out5.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp41Brass_2/pp41Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh50/current.fac. Error: No such file or directory. (10:05:21 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:05:21 PM  Apr 02, 2025)
-[error] Project:pp41Brass_2, Desig[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out3.pjt/out3.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh46/current.fac. Error: No such file or directory. (10:05:53 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:05:53 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out3.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:05:53 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out3.pjt//out3.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field47/fields.hdr. Error: No such file or directory. (10:05:53 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out4.pjt/out4.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh48/current.fac. Error: No such file or directory. (10:06:41 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:06:41 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out4.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:06:41 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out4.pjt//out4.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field49/fields.hdr. Error: No such file or directory. (10:06:41 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out5.pjt/out5.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh50/current.fac. Error: No such file or directory. (10:07:30 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:07:30 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out5.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:07:30 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out5.pjt//out5.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field51/fields.hdr. Error: No such file or directory. (10:07:30 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out6.pjt/out6.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh52/current.fac. Error: No such file or directory. (10:08:19 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:08:19 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out6.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:08:19 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy [info] Project:pp63Brass_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (05:13:56 PM  Apr 03, 2025)
-[info] Project:pp63Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (05:18:04 PM  Apr 03, 2025)
-[warning] Project:pp63Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:18:06 PM  Apr 03, 2025)
-Stopping Batch Run: 5:18:07 PM  Apr 03, 2025
- Project:pp62Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:18:04 PM  Apr 03, 2025)
-Stopping Batch Run: 5:18:05 PM  Apr 03, 2025
-09:09 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out7.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:09:09 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out7.pjt//out7.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field55/fields.hdr. Error: No such file or directory. (10:09:09 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out8.pjt/out8.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh56/current.fac. Error: No such file or directory. (10:09:59 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:09:59 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out8.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:09:59 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out8.pjt//out8.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field57/fields.hdr. Error: No such file or directory. (10:09:59 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out9.pjt/out9.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh58/current.fac. Error: No such file or directory. (10:10:50 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:10:50 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out9.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:10:50 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out9.pjt//out9.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field59/fields.hdr. Error: No such file or directory. (10:10:50 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out10.pjt/out10.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh60/current.fac. Error: No such file or directory. (10:11:43 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:11:43 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out10.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:11:43 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out10.pjt//out10.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field61/fields.hdr. Error: No such file or directory. (10:11:43 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out11.pjt/out11.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh62/current.fac. Error: No such file or directory. (10:12:38 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Unable to save current mesh data for simulation: MySetupAuto (10:12:38 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/restart_out11.pjt/setup to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V28.Data/setup. Error: No such file or directory. (10:12:38 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out11.pjt//out11.hdr to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_SOL10_V27.Field63/fields.hdr. Error: No such file or directory. (10:12:38 PM  Apr 02, 2025)
-[error] Project:pp39Brass_2, Design:eddy (Transient), Failed to copy local file /tmp/maxwell_gate1.hpc_3906046.pjt/out12.pjt/out12.fac to file /home1/harry261/Documents/Projects/HW3/aedtProjects/pp39Brass_2/pp39Brass_2.aedtresults/eddy.results/DV35_S9_V15.cmesh64/current.fac. Error: No such file or directory. (10:13:29 PM  Ap[warning] Project:pp32Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp32Brass_2, Design:eddy (Transient), Report pp[warning] Project:pp40Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an asStopping Batch Run: 5:13:50 PM  Apr 03, 2025
-ition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp40Brass_2, Design:eddy (Transient), Report pp40Brass_2_magnet2_10T_Brass_9.00cm_per_sec has no data for export. (05:13:47 PM  Apr 03, 2025)
-Stopping Batch Run: 5:13:51 PM  Apr 03, 2025
-  'Freq' doesn't have an asStopping Batch Run: 5:13:52 PM  Apr 03, 2025
-ition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp41Brass_2, Design:eddy (Transient), Report pp41Brass_2_magnet2_10T_Brass_14.86cm_per_sec has no data for export. (05:13:47 PM  Apr 03, 2025)
-Stopping Batch Run: 5:13:48 PM  Apr 03, 2025
-ut13.fac to file /ho[warning] Project:pp34Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp34Brass_2, Design:eddy (Transient), Report pp34Brass_2_magnet1_10T_Brass_20.71cm_per_sec has no data for export. (05:13:47 PM  Apr 03, 2025)
-Stopping Batch Run: 5:13:50 PM  Apr 03, 2025
-Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:20:11 PM  Apr 02, 2025)
-[warning] Project:pp33Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:20:12 PM  Apr 02, 2025[info] Project:pp34Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:20:15 PM  Apr 02, 2025)
-[warning] Project:pp34Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:20:16 PM  Apr 02, 2025[info] Project:pp35Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:20:19 PM[warning] Project:pp35Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp35Brass_2, Design:eddy (Transient), Report pp35Brass_2_magnet1_10T_Brass_26.57cm_per_sec has no data for export. (05[warning] Project:pp36BraStopping Batch Run: 5:13:49 PM  Apr 03, 2025
-'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp36Brass_2, Design:eddy (Transient), Report pp36Brass_2_magnet1_10T_Brass_32.43cm_per_sec has no data for export. (05:13:47 PM  Apr 03, 2025)
-Stopping Batch Run: 5:13:52 PM  Apr 03, 2025
-'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp37Brass_2, Design:eddy (Transient), Report pp37Brass_2_magnet1_10T_Brass_38.29cm_per_sec has no data for export. (05:13:47 PM  Apr 03, 2025)
-Stopping Batch Run: 5:13:49 PM  Apr 03, 2025
-'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp38Brass_2, Design:eddy (Transient), Report pp38Brass_2_magnet1_10T_Brass_44.14cm_per_sec has no data for export. (05:13:47 PM  Apr 03, 2025)
-Stopping Batch Run: 5:13:52 PM  Apr 03, 2025
-'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (05:13:47 PM  Apr 03, 2025)
-[warning] Project:pp39Brass_2, Design:eddy (Transient), Report pp39Brass_2_magnet1_10T_Brass_50.00cm_per_sec has no data for export. (05:13:47 PM  Apr 03, 2025)
-Stopping Batch Run: 5:13:49 PM  Apr 03, 2025
-ion on server: Local Machine. (10:11:45 PM  Apr 02, 2025)
-[warning] Project:pp41Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:11:46 PM  Apr 02, 2025[info] Project:pp42Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:11:56 PM  Apr 02, 2025)
-[warning] Project:pp42Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:11:57 PM  Apr 02, 2025[info] Project:pp43Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:12:22 PM  Apr 02, 2025)
-[warning] Project:pp43Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp44Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:12:35 PM  Apr 02, 2025)
-[warning] Project:pp44Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the def[info] Project:pp45Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:12:47 PM  Apr 02, 2025)
-[warning] Project:pp45Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp46Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:12:59 PM  Apr 02, 2025)
-[warning] Project:pp46Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:13:00 PM  Apr 02, 2025[info] Project:pp47Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:13:11 PM  Apr 02, 2025)
-[warning] Project:pp47Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:13:12 PM  Apr 02, 2025)
-Stopping Batch Run: 10:13:14 PM  Apr 02, 2025
-r running on port: 35451.
+[info] Project:pp0Copper_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:07:13 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:07:07 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 40755.
 
-[info] Projec[info] Project:pp48Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:34:19 PM  Apr 02, 2025)
-[warning] Project:pp48Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:34:20 PM  Apr 02, 2025[info] Project:pp49Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:34:34 PM  Apr 02, 2025)
-[warning] Project:pp49Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp50Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local MachineStopping Batch Run: 10:34:38 P[warning] Project:pp50Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp51Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local MachineStopping Batch Run: 10:34:44 P[warning] Project:pp51Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:34:45 PM  Apr 02, 2025[info] Project:pp52Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:35:01 PM  Apr 02, 2025)
-[warning] Project:pp52Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp53Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:35:10 PM  Apr 02, 2025)
-[warning] Project:pp53Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:35:11 PM  Apr 02, 2025[info] Project:pp54Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:35:31 PM  Apr 02, 2025)
-[warning] Project:pp54Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp55Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:35:38 PM  Apr 02, 2025)
-[warning] Project:pp55Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:35:39 PM  Apr 02, 2025)
-Stopping Batch Run: 10:35:44 PM  Apr 02, 2025
-esign:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:16:08 PM  Apr 02, 2025)
-[warning] Project:pp57Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp58Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:16:16 PM  Apr 02, 2025)
-[warning] Project:pp58Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the def[info] Project:pp59Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:16:30 PM  Apr 02, 2025)
-[warning] Project:pp59Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp60Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:16:41 PM  Apr 02, 2025)
-[warning] Project:pp60Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp61Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:16:51 PM  Apr 02, 2025)
-[warning] Project:pp61Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp62Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:16:59 PM  Apr 02, 2025)
-[warning] Project:pp62Brass_1, Design:eddy (Transient), The variable  'Freq[info] Project:pp63Brass_1, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:17:12 PM  Apr 02, 2025)
-[warning] Project:pp63Brass_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:17:13 PM  Apr 02, 2025)
-Stopping Batch Run: 10:17:17 PM  Apr 02, 2025
+[info] Project:pp1Copper_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:07:32 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:07:19 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 51699.
+
+[error] Project:pp2Copper_1, Design:eddy (Transient), Not connected to a server for Licensing Client Proxy actions.
+ (12:07:41 PM  Apr 02, 2025)
+[error] Project:pp2Copper_1, Design:eddy (Transient), Simulation was terminated by license error. (12:07:41 PM  Apr 02, 2025)
+[error] Simulation for pp2Copper_1 : eddy : MySetupAuto has failed with execution error. 
+[warning] Project:pp2Copper_1, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (12:07:42 PM  Apr 02, 2025)
+[warning] Project:pp2Copper_1, Design:eddy (Transient), Report pp2Copper_1_magnet1_10T_Copper_20.71cm_per_sec has no data for export. (12:07:42 PM  Apr 02, 2025)
+Stopping Batch Run: 12:07:43 PM  Apr 02, 2025
  
 Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
 Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
 Non Graphical Mode: No Project??
-Starting Batch Run: 10:30:06 PM  Apr 02, 2025
+Starting Batch Run: 12:12:38 PM  Apr 02, 2025
 Temp directory: /tmp
-Project directory: /home1/harry261/Ansoft
-[info] GRPC server running on port: 54975.
+Project directory: /root/Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:14:23 PM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:19:57 PM  Apr 02, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:23:43 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 53219.
 
-[info] Project:pp48Brass_2, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (10:30:30 PM  Apr 02, 2025)
-[info] Project:pp48Brass_2, Design:eddy (Transient), Seed Refinement Estimates for body Metal might reach 187061 tets from 164 tets. Predicting a growth of 1140.62 %. (10:30:30 PM  A[info] Projec[info] Project:pp48Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:54:33 PM  Apr 02, 2025)
-[warning] Project:pp48Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:54:34 PM  Apr 02, 2025[info] Project:pp49Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:54:44 PM  Apr 02, 2025)
-[warning] Project:pp49Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the def[info] Project:pp50Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:55:07 PM  Apr 02, 2025)
-[warning] Project:pp50Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:55:08 PM  Apr 02, 2025)
-Stopping Batch Run: 10:55:09 PM  Apr 02, 2025
-nt), Normal completion of simulation on server: Local Machine. (10:54:47 PM  Apr 02, 2025)
-[warning] Project:pp51Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:54:48 PM  Apr 02, 2025[info] Project:pp52Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:55:03 PM  Apr 02, 2025)
-[warning] Project:pp52Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:55:04 PM  Apr 02, 2025)
-Stopping Ba[info] Project:pp53Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:55:35 PM  Apr 02, 2025)
-[warning] Project:pp53Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:55:37 PM  Apr 02, 2025[iStopping Batch Run: 10:55:40 PM  Apr 02, 2025
-nt), Normal completion of simulation on server: Local Machine. (10:55:40 PM  Apr 02, 2025)
-[warning] Project:pp54Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:55:41 PM  Apr 02, 2025[info] Project:pp55Brass_2, Design:eddy (Transient), Normal completion of simulation on server: Local Machine. (10:55:57 PM  Apr 02, 2025)
-[warning] Project:pp55Brass_2, Design:eddy (Transient), The variable  'Freq' doesn't have an associated sweep and is excluded from the definition of trace. (10:55:58 PM  Apr 02, 2025)
-Stopping Batch Run: 10:56:03 PM  Apr 02, 2025
+[info] Project:pp0Copper_3, Design:eddy (Transient), Verify conduction path: Conduction path validate success. (12:24:03 PM  Apr 02, 2025)
+Graphical Mode: No Project??
+Starting Batch Run: 12:23:55 PM  Apr 02, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 44329.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:58:30 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33889.
+
+Stopping Batch Run: 11:00:48 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:34:35 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33889.
+
+Stopping Batch Run: 11:35:13 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:39:19 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33889.
+
+Stopping Batch Run: 11:39:48 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:47:41 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+Stopping Batch Run: 11:48:08 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:48:12 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+Stopping Batch Run: 11:48:33 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:48:40 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+Stopping Batch Run: 11:51:03 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:51:08 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 33890.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:52:48 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+[info] GRPC server running on port: 58883.
+
+Stopping Batch Run: 11:53:53 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:54:48 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 22998. 
+-- Message Window --
+Stopping Batch Run: 11:57:25 AM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:57:38 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:59:42 AM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:01:44 PM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 58917. 
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "/root/miniconda3/envs/pyansys/lib/python3.12/asyncio/base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "/root/miniconda3/envs/pyansys/lib/python3.12/asyncio/base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "/root/miniconda3/envs/pyansys/lib/python3.12/asyncio/events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_720/2559951737.py", line 1, in <module>
+        [error]     M3D = DT_server.load_project("/root/projects/hpc_backup/Projects/HW3/pyansysProject/CM_DM_ind_2.aedt")
+        [error] 'nonetype' object has no attribute 'getname' on active_design
+        [error] Last Electronics Desktop Message - [error] 'nonetype' object has no attribute 'getname' on active_design  
+        [error] Method arguments: 
+        [error]     project_object = Instance of an Aedt object:15 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 12:02:45 PM  Apr 03, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:02:49 PM  Apr 03, 2025
+Temp directory: /tmp
+Project directory: /root/Ansoft

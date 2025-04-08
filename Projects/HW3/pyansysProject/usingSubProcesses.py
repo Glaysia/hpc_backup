@@ -2,6 +2,12 @@ import subprocess
 import numpy as np
 from typing import List, Tuple
 from time import sleep
+import os
+
+# 부모 환경 복사
+env = os.environ.copy()
+env['ANSYSLMD_LICENSE_FILE'] = '1055@172.16.10.81'
+
 
 csv_dir = "/home1/harry261/Documents/csv"
 
@@ -37,19 +43,32 @@ def makeProcess(
         idx: str
 ) -> None:
     subprocess.Popen([
-        "python", "/home1/harry261/Documents/Projects/HW3/pyansysProject/hw3.py",
-        "--metal-material", material,
-        "--metal-thick", f"{thick == '20T'}",
+        "python", "/root/projects/hpc_backup/Projects/HW3/pyansysProject/hw3.py", 
+        "--metal-material", material, 
+        "--metal-thick", f"{thick =='20T'}",
         "--magnet-n", magnet_n,
         "--velocity", velocity,
         "--project-name", f"pp{idx}{material}_1",
-        "--csv-dir", f"/home1/harry261/Documents/csv/{material}"
-    ]
-    )
-
-
+        "--csv-dir", "/root/projects/hpc_backup/Projects/HW3/pyansysProject/csv"
+        ]
+    ) 
 print(idx_final)
+# nnn = ('Brass', '10T', '1', ('22.00', '23.47', '24.95', '26.42', '27.89', '29.37', '30.84', '32.32', '33.79', '35.26', '36.74', '38.21', '39.68', '41.16', '42.63', '44.11', '45.58', '47.05', '48.53', '50.00'))
 
+# index:int = 0
+# item = nnn
+# for v in item[3]:
+#     makeProcess(
+#         material=item[0],
+#         thick=item[1],
+#         magnet_n=item[2],
+#         velocity=v,
+#         idx=f"{index}"
+#         )
+#     sleep(10)
+
+#     index+=1
+# pass
 # 결과 출력
 index: int = 0
 for item in idx_final:
