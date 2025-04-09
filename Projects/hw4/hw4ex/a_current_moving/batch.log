@@ -46,3 +46,225 @@ Project directory: /home1/harry261/Ansoft
 [info] GRPC server running on port: 49747.
 
 Stopping Batch Run: 2:27:06 PM  Apr 08, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:49:29 PM  Apr 08, 2025
+Temp directory: /tmp
+Project directory: /home/harry_lt/Ansoft
+[info] GRPC server running on port: 46161.
+
+[error] The project file path /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/linear_motor_3slot_2D.aedt is invalid. The project file path cannot be empty and the directory must already exist. The characters \/:*?<>| cannot be in the project name and there must be no leading or trailing spaces.
+[error] The background material does not exist.
+[error] Project:linear_motor_3slot_2D, Design:linear_motor_3slot_2D (Transient, XY), Script macro error: The name 'Setup1' is already in use. (05:51:43 PM  Apr 08, 2025)
+Stopping Batch Run: 5:55:54 PM  Apr 08, 2025
+ Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:51:56 PM  Apr 08, 2025
+Temp directory: /tmp
+Project directory: /home/harry_lt/Ansoft
+[info] GRPC server running on port: 43333.
+
+Stopping Batch Run: 5:52:34 PM  Apr 08, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:52:56 PM  Apr 08, 2025
+Temp directory: /tmp
+Project directory: /home/harry_lt/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 51399. 
+-- Message Window --
+Stopping Batch Run: 5:53:19 PM  Apr 08, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:54:05 PM  Apr 08, 2025
+Temp directory: /tmp
+Project directory: /home/harry_lt/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 52423. 
+-- Message Window --
+Stopping Batch Run: 5:54:34 PM  Apr 08, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:54:52 PM  Apr 08, 2025
+Temp directory: /tmp
+Project directory: /home/harry_lt/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55275. 
+-- Message Window --
+Stopping Batch Run: 5:55:29 PM  Apr 08, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:10:25
+Location: /opt/ohpc/pub/Electronics/v242/Linux64/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:57:51 PM  Apr 08, 2025
+Temp directory: /tmp
+Project directory: /home/harry_lt/Ansoft
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 45135. 
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 2D_EO9' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+        [error]     return _run_code(code, main_globals, None,
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 86, in _run_code
+        [error]     exec(code, run_globals)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+        [error]     self._run_once()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+        [error]     handle._run()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_152721/1515839010.py", line 8, in <module>
+        [error]     M2D.save_project(projPath)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] aedt api error on save_project  
+        [error] Method arguments: 
+        [error]     file_name = /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/linear_motor_3slot_2D.aedt 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+        [error]     return _run_code(code, main_globals, None,
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 86, in _run_code
+        [error]     exec(code, run_globals)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+        [error]     self._run_once()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+        [error]     handle._run()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_152721/1515839010.py", line 8, in <module>
+        [error]     M2D.save_project(projPath)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] aedt api error on save_project  
+        [error] Method arguments: 
+        [error]     file_name = /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/linear_motor_3slot_2D.aedt 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+        [error]     return _run_code(code, main_globals, None,
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 86, in _run_code
+        [error]     exec(code, run_globals)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+        [error]     self._run_once()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+        [error]     handle._run()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_152721/1314059144.py", line 8, in <module>
+        [error]     M2D.save_project(proj_name)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/os.py", line 225, in makedirs
+        [error]     mkdir(name, mode)
+        [error] [errno 2] no such file or directory: '' on save_project
+        [error] Last Electronics Desktop Message - [error] [errno 2] no such file or directory: '' on save_project  
+        [error] Method arguments: 
+        [error]     file_name = linear_motor_3slot_2D 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+        [error]     return _run_code(code, main_globals, None,
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 86, in _run_code
+        [error]     exec(code, run_globals)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+        [error]     self._run_once()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+        [error]     handle._run()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_152721/3224184658.py", line 8, in <module>
+        [error]     M2D.save_project(dir)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] aedt api error on save_project  
+        [error] Method arguments: 
+        [error]     file_name = /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+        [error]     return _run_code(code, main_globals, None,
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 86, in _run_code
+        [error]     exec(code, run_globals)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+        [error]     self._run_once()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+        [error]     handle._run()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_152721/3224184658.py", line 8, in <module>
+        [error]     M2D.save_project(dir)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] aedt api error on save_project  
+        [error] Method arguments: 
+        [error]     file_name = /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+        [error]     return _run_code(code, main_globals, None,
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 86, in _run_code
+        [error]     exec(code, run_globals)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+        [error]     self._run_once()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+        [error]     handle._run()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_152721/3878799052.py", line 8, in <module>
+        [error]     M2D.save_project(projPath, overwrite=True)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] aedt api error on save_project  
+        [error] Method arguments: 
+        [error]     file_name = /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/linear_motor_3slot_2D.aedt 
+        [error]     overwrite = True 
+        [error] **************************************************************
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [info] The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/Project1.aedt exists. Do you want to overwrite it?
+        [error] **************************************************************
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+        [error]     return _run_code(code, main_globals, None,
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/runpy.py", line 86, in _run_code
+        [error]     exec(code, run_globals)
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+        [error]     self._run_once()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+        [error]     handle._run()
+        [error]   File "/home/harry_lt/.conda/envs/Pyansys/lib/python3.10/asyncio/events.py", line 80, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "/tmp/ipykernel_152721/3878799052.py", line 8, in <module>
+        [error]     M2D.save_project(projPath, overwrite=True)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] aedt api error on save_project  
+        [error] Method arguments: 
+        [error]     file_name = /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/linear_motor_3slot_2D/linear_motor_3slot_2D.aedt 
+        [error]     overwrite = True 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 6:04:19 PM  Apr 08, 2025
