@@ -268,3 +268,1763 @@ The file /home/harry_lt/Projects/hpc_backup/Projects/hw4/hw4ex/a_current_moving/
         [error] **************************************************************
 -- Message Window --
 Stopping Batch Run: 6:04:19 PM  Apr 08, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:34:39 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:18:16 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 64892. 
+        [info] Project Project25 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 2D_IBT' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\246488921.py", line 127, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] you cannot delete the active project. on delete_project  
+        [error] Method arguments: 
+        [error]     name = Project25 
+        [error] **************************************************************
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] No consistent unique design is present. Inserting a new design.
+        [info] Added design 'Maxwell 2D_UWK' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\246488921.py", line 254, in init_to_setup
+        [error]     substrate = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name='substrate', material=steel, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-my_w/2", an error was found near character 5. 'my_w' is not a defined variable name in this context. while parsing expression: "-my_th/2", an error was found n
+        [error] ear character 6. 'my_th' is not a defined variable name in this context. while parsing expression: "my_w", an error was found near character 3. 'my_w' is not a defined variable name in this context. while parsing expression: "my_th", an error was fou
+        [error] nd near character 4. 'my_th' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:18:54 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = ['-my_w/2', '-my_th/2'] 
+        [error]     sizes = ['my_w', 'my_th'] 
+        [error]     is_covered = True 
+        [error]     name = substrate 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C1184650> 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\246488921.py", line 260, in init_to_setup
+        [error]     magnet_1 = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name="magnet_1", material=magnet_s, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-m_h/2", an error was found near character 4. 'm_h' is not a defined variable name in this context. while parsing expression: "m_w", an error was found near cha
+        [error] racter 2. 'm_w' is not a defined variable name in this context. while parsing expression: "m_h", an error was found near character 2. 'm_h' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:18:55 pm 
+        [error]  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = [0, '-m_h/2'] 
+        [error]     sizes = ['m_w', 'm_h'] 
+        [error]     is_covered = True 
+        [error]     name = magnet_1 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C10E8FB0> 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\246488921.py", line 263, in init_to_setup
+        [error]     M2D.modeler.duplicate_along_line(assignment=magnet_1, vector=vector, clones=simparm.num_pole/2, attach=True, is_3d_comp=False, duplicate_assignment=True)   # 복제
+        [error] AEDT API Error on duplicate_along_line
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (06:18:55 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     vector = ['2*(m_w+gap_w)', 0] 
+        [error]     clones = 5.0 
+        [error]     attach = True 
+        [error]     duplicate_assignment = True 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 6:19:34 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:19:49 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 64961. 
+        [info] Project Project25 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 2D_GMS' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] Project linear_motor_3slot_2D Saved correctly
+-- Message Window --
+Stopping Batch Run: 6:21:29 PM  Apr 09, 2025
+
+-- Message Window --
+Stopping Batch Run: 6:21:14 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:21:37 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+[error] Project "test1_n" cannot be closed/deleted because it is in use by another application.
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 65069. 
+        [info] Project Project25 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 2D_P67' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\599704843.py", line 127, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] you cannot delete the active project. on delete_project  
+        [error] Method arguments: 
+        [error]     name = Project25 
+        [error] **************************************************************
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] No consistent unique design is present. Inserting a new design.
+        [info] Added design 'Maxwell 2D_SO7' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\599704843.py", line 255, in init_to_setup
+        [error]     substrate = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name='substrate', material=steel, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-my_w/2", an error was found near character 5. 'my_w' is not a defined variable name in this context. while parsing expression: "-my_th/2", an error was found n
+        [error] ear character 6. 'my_th' is not a defined variable name in this context. while parsing expression: "my_w", an error was found near character 3. 'my_w' is not a defined variable name in this context. while parsing expression: "my_th", an error was fou
+        [error] nd near character 4. 'my_th' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:22:15 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = ['-my_w/2', '-my_th/2'] 
+        [error]     sizes = ['my_w', 'my_th'] 
+        [error]     is_covered = True 
+        [error]     name = substrate 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C2ADE1E0> 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\599704843.py", line 261, in init_to_setup
+        [error]     magnet_1 = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name="magnet_1", material=magnet_s, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-m_h/2", an error was found near character 4. 'm_h' is not a defined variable name in this context. while parsing expression: "m_w", an error was found near cha
+        [error] racter 2. 'm_w' is not a defined variable name in this context. while parsing expression: "m_h", an error was found near character 2. 'm_h' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:22:15 pm 
+        [error]  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = [0, '-m_h/2'] 
+        [error]     sizes = ['m_w', 'm_h'] 
+        [error]     is_covered = True 
+        [error]     name = magnet_1 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C2ADF7A0> 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\599704843.py", line 264, in init_to_setup
+        [error]     M2D.modeler.duplicate_along_line(assignment=magnet_1, vector=vector, clones=simparm.num_pole/2, attach=True, is_3d_comp=False, duplicate_assignment=True)   # 복제
+        [error] AEDT API Error on duplicate_along_line
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (06:22:15 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     vector = ['2*(m_w+gap_w)', 0] 
+        [error]     clones = 5.0 
+        [error]     attach = True 
+        [error]     duplicate_assignment = True 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:24:31 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:24:31 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:24:54 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:24:54 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:24:56 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:24:56 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:26:01 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:26:01 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:26:27 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:26:27 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:26:29 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:26:29 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:26:31 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2708974507.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1_n. (06:26:31 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\4076399158.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:27:19 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\4076399158.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:27:19 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2766187703.py", line 124, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:28:56 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1464345045.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,proj_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2766187703.py", line 128, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:28:56 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\218566899.py", line 125, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:29:55 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\218566899.py", line 129, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:29:55 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\218566899.py", line 125, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:03 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\218566899.py", line 129, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:03 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\120857434.py", line 125, in init_to_setup
+        [error]     DT.save_project(project_name=proj_name)
+        [error] AEDT API Error on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:47 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_name = test1 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\120857434.py", line 129, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:47 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\3012752454.py", line 129, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:47 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\3012752454.py", line 129, in init_to_setup
+        [error]     tmp.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:47 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] Active Design set to test2
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'test' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2998134371.py", line 8, in <module>
+        [error]     M2D.delete_design("linear_motor_3slot_2D")
+        [error] AEDT API Error on delete_design
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:47 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = linear_motor_3slot_2D 
+        [error] **************************************************************
+        [info] Active Design set to test
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\2998134371.py", line 8, in <module>
+        [error]     M2D.delete_design("linear_motor_3slot_2D")
+        [error] AEDT API Error on delete_design
+        [error] Last Electronics Desktop Message - [error] script macro error: loading project failed: test1. (06:30:47 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = linear_motor_3slot_2D 
+        [error] **************************************************************
+        [error] Project "test1_n" cannot be closed/deleted because it is in use by another application.
+        [info] Active Design set to test
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1655591399.py", line 8, in <module>
+        [error]     M2D.delete_design("linear_motor_3slot_2D")
+        [error] AEDT API Error on delete_design
+        [error] Last Electronics Desktop Message - [error] script macro error: unable to locate design: linear_motor_3slot_2d (06:33:01 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = linear_motor_3slot_2D 
+        [error] **************************************************************
+        [info] Active Design set to test2
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Active Design set to test2
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Active Design set to test2
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1085836939.py", line 131, in init_to_setup
+        [error]     M2D.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: unable to locate design: linear_motor_3slot_2d (06:33:01 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+        [info] Active Design set to test2
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1842127018.py", line 132, in init_to_setup
+        [error]     M2D.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] script macro error: unable to locate design: linear_motor_3slot_2d (06:33:01 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test1_n 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 6:36:00 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:36:09 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 65445. 
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1842127018.py", line 127, in init_to_setup
+        [error]     M2D: AedtPropServer = DT.active_design()
+        [error] 'nonetype' object has no attribute 'getactivedesign' on active_design
+        [error] Last Electronics Desktop Message - [error] 'nonetype' object has no attribute 'getactivedesign' on active_design  
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 6:37:15 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:37:22 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 65502. 
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1842127018.py", line 127, in init_to_setup
+        [error]     M2D: AedtPropServer = DT.active_design()
+        [error] 'nonetype' object has no attribute 'getactivedesign' on active_design
+        [error] Last Electronics Desktop Message - [error] 'nonetype' object has no attribute 'getactivedesign' on active_design  
+        [error] **************************************************************
+        [info] Project Project25 has been created.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1843137099.py", line 135, in init_to_setup
+        [error]     M2D.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] you cannot delete the active project. on delete_project  
+        [error] Method arguments: 
+        [error]     name = Project25 
+        [error] **************************************************************
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1843137099.py", line 135, in init_to_setup
+        [error]     M2D.delete_project(i)
+        [error] You cannot delete the active project. on delete_project
+        [error] Last Electronics Desktop Message - [error] you cannot delete the active project. on delete_project  
+        [error] Method arguments: 
+        [error]     name = Project25 
+        [error] **************************************************************
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\3345030893.py", line 177, in init_to_setup
+        [error]     M2D.rename_design(desi_name, save=False)
+        [error] AEDT API Error on rename_design
+        [error] Last Electronics Desktop Message - [error] script macro error: there is already a design by that name. (06:41:47 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     name = test2 
+        [error] **************************************************************
+        [info] Project test1_n Saved correctly
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+-- Message Window --
+Stopping Batch Run: 6:45:06 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:46:32 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 49325. 
+        [info] Project Project25 has been created.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\3078588839.py", line 267, in init_to_setup
+        [error]     substrate = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name='substrate', material=steel, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-my_w/2", an error was found near character 5. 'my_w' is not a defined variable name in this context. while parsing expression: "-my_th/2", an error was found n
+        [error] ear character 6. 'my_th' is not a defined variable name in this context. while parsing expression: "my_w", an error was found near character 3. 'my_w' is not a defined variable name in this context. while parsing expression: "my_th", an error was fou
+        [error] nd near character 4. 'my_th' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:48:11 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = ['-my_w/2', '-my_th/2'] 
+        [error]     sizes = ['my_w', 'my_th'] 
+        [error]     is_covered = True 
+        [error]     name = substrate 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C468D790> 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\3078588839.py", line 273, in init_to_setup
+        [error]     magnet_1 = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name="magnet_1", material=magnet_s, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-m_h/2", an error was found near character 4. 'm_h' is not a defined variable name in this context. while parsing expression: "m_w", an error was found near cha
+        [error] racter 2. 'm_w' is not a defined variable name in this context. while parsing expression: "m_h", an error was found near character 2. 'm_h' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:48:11 pm 
+        [error]  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = [0, '-m_h/2'] 
+        [error]     sizes = ['m_w', 'm_h'] 
+        [error]     is_covered = True 
+        [error]     name = magnet_1 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C40609B0> 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1856808925.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\3078588839.py", line 276, in init_to_setup
+        [error]     M2D.modeler.duplicate_along_line(assignment=magnet_1, vector=vector, clones=simparm.num_pole/2, attach=True, is_3d_comp=False, duplicate_assignment=True)   # 복제
+        [error] AEDT API Error on duplicate_along_line
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (06:48:12 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     vector = ['2*(m_w+gap_w)', 0] 
+        [error]     clones = 5.0 
+        [error]     attach = True 
+        [error]     duplicate_assignment = True 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+-- Message Window --
+Stopping Batch Run: 6:52:47 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:52:52 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 49490. 
+        [info] Project Project25 has been created.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1247667631.py", line 14, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1572255060.py", line 267, in init_to_setup
+        [error]     substrate = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name='substrate', material=steel, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-my_w/2", an error was found near character 5. 'my_w' is not a defined variable name in this context. while parsing expression: "-my_th/2", an error was found n
+        [error] ear character 6. 'my_th' is not a defined variable name in this context. while parsing expression: "my_w", an error was found near character 3. 'my_w' is not a defined variable name in this context. while parsing expression: "my_th", an error was fou
+        [error] nd near character 4. 'my_th' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:53:33 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = ['-my_w/2', '-my_th/2'] 
+        [error]     sizes = ['my_w', 'my_th'] 
+        [error]     is_covered = True 
+        [error]     name = substrate 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C7862510> 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1247667631.py", line 14, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\1572255060.py", line 273, in init_to_setup
+        [error]     magnet_1 = M2D.modeler.create_rectangle(origin=origin, sizes=sizes, is_covered=True, name="magnet_1", material=magnet_s, non_model=False)
+        [error] AEDT API Error on create_rectangle
+        [error] Last Electronics Desktop Message - [error] script macro error: while parsing expression: "-m_h/2", an error was found near character 4. 'm_h' is not a defined variable name in this context. while parsing expression: "m_w", an error was found near cha
+        [error] racter 2. 'm_w' is not a defined variable name in this context. while parsing expression: "m_h", an error was found near character 2. 'm_h' is not a defined variable name in this context. cannot create rectangle with zero length/width.  (06:53:34 pm 
+        [error]  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     origin = [0, '-m_h/2'] 
+        [error]     sizes = ['m_w', 'm_h'] 
+        [error]     is_covered = True 
+        [error]     name = magnet_1 
+        [error]     material = <ansys.aedt.core.modules.material.Material object at 0x00000202C4E052E0> 
+        [error] **************************************************************
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+-- Message Window --
+Stopping Batch Run: 6:54:32 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:54:37 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 49575. 
+        [info] Project Project25 has been created.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+-- Message Window --
+Stopping Batch Run: 6:56:27 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:56:33 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 49662. 
+        [info] Project Project25 has been created.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project Project25 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Balloon Balloon_0E2Y5L has been created.
+        [info] Boundary Band Motion_2WYLDU has been created.
+        [info] Boundary Winding winding_a has been created.
+        [info] Boundary Winding winding_b has been created.
+        [info] Boundary Winding winding_c has been created.
+        [info] Boundary Coil coil_a_in_ter has been created.
+        [info] Boundary Coil coil_a_out_ter has been created.
+        [info] Boundary Coil coil_b_in_ter has been created.
+        [info] Boundary Coil coil_b_out_ter has been created.
+        [info] Boundary Coil coil_c_in_ter has been created.
+        [info] Boundary Coil coil_c_out_ter has been created.
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Force force_virtual has been created.
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to test2
+        [info] Active Design set to test2
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [error] **************************************************************
+        [error]   File "<frozen runpy>", line 198, in _run_module_as_main
+        [error]   File "<frozen runpy>", line 88, in _run_code
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 645, in run_forever
+        [error]     self._run_once()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\base_events.py", line 1999, in _run_once
+        [error]     handle._run()
+        [error]   File "c:\Users\tsne\anaconda3\envs\HARRY\Lib\asyncio\events.py", line 88, in _run
+        [error]     self._context.run(self._callback, *self._args)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\3697433280.py", line 4, in <module>
+        [error]     hw4.init_to_setup(new_desktop=False,p_name="test1",desi_name="test2",simparm=parm1)
+        [error]   File "C:\Users\tsne\AppData\Local\Temp\ipykernel_17476\668434945.py", line 129, in init_to_setup
+        [error]     DT.active_design("tmp")
+        [error] 'str' object has no attribute 'getactivedesign' on active_design
+        [error] Last Electronics Desktop Message - [error] script macro error: the name 'setup1' is already in use. (06:57:51 pm  apr 09, 2025)  
+        [error] Method arguments: 
+        [error]     project_object = tmp 
+        [error] **************************************************************
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Balloon Balloon_YKQKQE has been created.
+        [info] Boundary Band Motion_73QJ93 has been created.
+        [info] Boundary Winding winding_a has been created.
+        [info] Boundary Winding winding_b has been created.
+        [info] Boundary Winding winding_c has been created.
+        [info] Boundary Coil coil_a_in_ter has been created.
+        [info] Boundary Coil coil_a_out_ter has been created.
+        [info] Boundary Coil coil_b_in_ter has been created.
+        [info] Boundary Coil coil_b_out_ter has been created.
+        [info] Boundary Coil coil_c_in_ter has been created.
+        [info] Boundary Coil coil_c_out_ter has been created.
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Force force_virtual has been created.
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Balloon Balloon_5VNXTF has been created.
+        [info] Boundary Band Motion_9Q1VW4 has been created.
+        [info] Boundary Winding winding_a has been created.
+        [info] Boundary Winding winding_b has been created.
+        [info] Boundary Winding winding_c has been created.
+        [info] Boundary Coil coil_a_in_ter has been created.
+        [info] Boundary Coil coil_a_out_ter has been created.
+        [info] Boundary Coil coil_b_in_ter has been created.
+        [info] Boundary Coil coil_b_out_ter has been created.
+        [info] Boundary Coil coil_c_in_ter has been created.
+        [info] Boundary Coil coil_c_out_ter has been created.
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Force force_virtual has been created.
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1_n exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1 Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Balloon Balloon_KURM8F has been created.
+        [info] Boundary Band Motion_1QQTEY has been created.
+        [info] Boundary Winding winding_a has been created.
+        [info] Boundary Winding winding_b has been created.
+        [info] Boundary Winding winding_c has been created.
+        [info] Boundary Coil coil_a_in_ter has been created.
+        [info] Boundary Coil coil_a_out_ter has been created.
+        [info] Boundary Coil coil_b_in_ter has been created.
+        [info] Boundary Coil coil_b_out_ter has been created.
+        [info] Boundary Coil coil_c_in_ter has been created.
+        [info] Boundary Coil coil_c_out_ter has been created.
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Force force_virtual has been created.
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Added design 'tmp' of type Maxwell 2D.
+        [info] Aedt Objects correctly read
+        [info] No project is defined. Project test1 exists and has been read.
+        [info] Active Design set to tmp
+        [info] Active Design set to tmp
+        [info] Aedt Objects correctly read
+        [info] Project test1_n Saved correctly
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Modeler2D class has been initialized!
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Boundary Balloon Balloon_8OYPN2 has been created.
+        [info] Boundary Band Motion_XJEQW1 has been created.
+        [info] Boundary Winding winding_a has been created.
+        [info] Boundary Winding winding_b has been created.
+        [info] Boundary Winding winding_c has been created.
+        [info] Boundary Coil coil_a_in_ter has been created.
+        [info] Boundary Coil coil_a_out_ter has been created.
+        [info] Boundary Coil coil_b_in_ter has been created.
+        [info] Boundary Coil coil_b_out_ter has been created.
+        [info] Boundary Coil coil_c_in_ter has been created.
+        [info] Boundary Coil coil_c_out_ter has been created.
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Mesh class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Force force_virtual has been created.
+        [info] Key Desktop/ActiveDSOConfigurations/Maxwell 2D correctly changed.
+        [info] Solving design setup Setup1
+        [info] Key Desktop/ActiveDSOConfigurations/Maxwell 2D correctly changed.
+        [info] Design setup Setup1 solved correctly in 0.0h 5.0m 48.0s
+-- Message Window --
+Stopping Batch Run: 7:14:18 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:15:48 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 1234. 
+-- Message Window --
+Stopping Batch Run: 7:18:49 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:21:43 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50154. 
+-- Message Window --
+Stopping Batch Run: 7:22:06 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:24:19 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50245. 
+-- Message Window --
+Stopping Batch Run: 7:24:52 PM  Apr 09, 2025
+ct directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50244. 
+-- Message Window --
+Stopping Batch Run: 7:24:49 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:25:32 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50378. 
+-- Message Window --
+Stopping Batch Run: 7:26:01 PM  Apr 09, 2025
+ct directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50377. 
+-- Message Window --
+Stopping Batch Run: 7:26:03 PM  Apr 09, 2025
+ct directory: C:\Users\tsne\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50379. 
+-- Message Window --
+Stopping Batch Run: 7:26:02 PM  Apr 09, 2025
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:26:51 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+aphical Mode: No Project??
+Starting Batch Run: 7:26:51 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+[warning] The file hw1d.asol_priv is in use - do you want to wait?
+[warning] The file hw1d.asol_priv is in use - do you want to wait?
+[warning] The file hw1d.asol_priv is in use - do you want to wait?
+[warning] The file hw1d.asol_priv is in use - do you want to wait?
+M  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:50:27 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+aphical Mode: No Project??
+Starting Batch Run: 7:50:27 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+aphical Mode: No Project??
+Starting Batch Run: 7:50:27 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+aphical Mode: No Project??
+Starting Batch Run: 7:50:27 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 7:56:45 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+[warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard.
+
+rs\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+[warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard.
+
+rs\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+[warning] Electronics Desktop cannot be closed right now because it is being used by another application, script or extension wizard.
+
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:02:33 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+aphical Mode: No Project??
+Starting Batch Run: 8:02:33 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+aphical Mode: No Project??
+Starting Batch Run: 8:02:33 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:06:02 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:31:58 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:48:19 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:51:03 PM  Apr 09, 2025
+Running as user : DESKTOP-RMS1URL\tsne
+Temp directory: C:\Users\tsne\AppData\Local\Temp
+Project directory: C:\Users\tsne\Documents\Ansoft
+[warning] The file hw4_1d.asol_priv is in use - do you want to wait?
+[warning] The file hw4_1d.asol_priv is in use - do you want to wait?
